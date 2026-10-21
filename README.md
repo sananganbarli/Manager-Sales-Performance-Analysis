@@ -1,11 +1,11 @@
 # Manager-Sales-Performance-Analysis
 Interactive Sales Comparison Dashboard analyzing Month-over-Month (MoM) and Year-over-Year (YoY) performance across managers, couriers, and regions.
 <img width="1298" height="727" alt="Screenshot 2026-10-21 165948" src="https://github.com/user-attachments/assets/01055153-a52d-43eb-9c4c-7858fd1d0b0f" />
-# 📊 Manager Sales Performance & Comparison Dashboard
+# Manager Sales Performance & Comparison Dashboard
 
 ![Manager Sales Performance](sales_comparison_preview.png)
 
-## 📌 Project Overview
+## Project Overview
 This project presents an interactive **Manager Sales Performance & Comparison Dashboard** designed to evaluate team performance, track revenue targets, and analyze sales dynamics across individual managers and field couriers.
 
 The dashboard allows team leads and executives to perform comparative timeframe analysis using key metrics such as **Month-over-Month (MoM)**, **Same Period Last Year (SPLY)**, and **Year-over-Year (YoY)** growth.
